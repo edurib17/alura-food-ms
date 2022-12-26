@@ -1,0 +1,1 @@
+package br.com.alurafood.payments.enumeration;public enum PaymentStatus {    CREATED,    CONFIRMED,    CANCELED}
